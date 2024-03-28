@@ -1,5 +1,4 @@
 var num=7891
-num >= 100 && num <= 999
 if(num >= 100 && num <= 999) {
     console.log("Given number is a 3-Digits Number.");
 }
@@ -8,7 +7,6 @@ else{
 }
 
 var num=789
-num >= 100 && num <= 999
 if(num >= 100 && num <= 999) {
     console.log("Given number is a 3-Digits Number.");
 }
@@ -17,7 +15,6 @@ else{
 }
 
 var num=5835
-num >= 100 && num <= 999
 if(num >= 100 && num <= 999) {
     console.log("Given number is a 3-Digits Number.");
 }
@@ -26,7 +23,6 @@ else{
 }
 
 var num=853
-num >= 100 && num <= 999
 if(num >= 100 && num <= 999) {
     console.log("Given number is a 3-Digits Number.");
 }
