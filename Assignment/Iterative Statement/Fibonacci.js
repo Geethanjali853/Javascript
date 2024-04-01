@@ -1,4 +1,10 @@
-var i = 1;
-for(var i = 1; i <= 21; i++){
-    console.log(i);
+function fibonacci(n){
+if (n <= 1) {
+    return n;
+}
+return fibonacci (n - 1) + fibonacci (n - 2);
+}
+n = 10
+for(var i = 0; i < n; i++){
+    console.log(fibonacci(i));
 }
