@@ -1,5 +1,5 @@
 var  a=[10,20,30,40]
-a.reverse()
+a.rsort()
 console.log(a)
 
 
